@@ -1,2 +1,2 @@
 # Space-Wars
-Video game made in Unity
+Video game made by Alex Buiciuc
